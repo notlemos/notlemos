@@ -10,7 +10,7 @@
 />
 [![My Skills](https://skillicons.dev/icons?i=python,java)](https://skillicons.dev)<br><br>
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,docker,mysql)](https://skillicons.dev)<br><br>
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)<br><br>
 <img align="right" width="250" src="https://especiais.g1.globo.com/fantastico/pegue-aqui-o-seu-gif-natalino/cavalinho-do-Santos.gif"
 />
 ## 🚀 Featured Projects
