@@ -15,6 +15,6 @@
 ## 🚀 Featured Projects
 
 - 🤖 [futebot-discord](github.com/notlemos/futebot-discord) a discord bot with lots of football commands, using web scraping and more.
-- 🎬 [yt-downloader](https://github.com/notlemos/yt-downloader) An app to download YouTube videos in any quality, with a simple interface built using [customtkinter](https://github.com/TomSchimansky/CustomTkinter) and[pytubefix](https://pypi.org/project/pytubefix/).
+- 🎬 [yt-downloader](https://github.com/notlemos/yt-downloader) An app to download YouTube videos in any quality, with a simple interface built using [customtkinter](https://github.com/TomSchimansky/CustomTkinter) and [pytubefix](https://pypi.org/project/pytubefix/).
 - ✨ [ai-video-summarizer](https://github.com/notlemos/video-summarizer) a tool to summarizes videos using the [groq](https://console.groq.com/docs/api-reference#batches-create) AI and converts the summary into markdown format.
 
