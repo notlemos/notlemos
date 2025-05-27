@@ -1,7 +1,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Caio!</h1>
 
 - 🎓 Currently studying **Systems Analysis and Development**, 3rd semester.
-- 🌱 Trying to evolve and be a better dev ^-^ !
+- 🌱 Trying to evolve and be a better dev !
 
   <br>
 
